@@ -4,12 +4,12 @@ import pandas as pd
 
 #---function for connect Python to MySQL database---
 def get_connection():
-    return pymysql.connect(host='localhost',                       
-                      user='root',
-                      password='12345',
-                      database='ED_TECH',
-                      port=3306,
-                      cursorclass=pymysql.cursors.DictCursor)
+    return pymysql.connect(host='localhost',                   #mysql server hostname                     
+                      user='root',                             #mysql username
+                      password='12345',                        #mysql password
+                      database='ED_TECH',                      #database name
+                      port=3306,                               #port number
+                      cursorclass=pymysql.cursors.DictCursor)  #to receive query results as dictionaries instead of tuples
 
 #---function for fetch eligible students based on user selected filters---
 def eligible_students(problem_solved, soft_skill, pro_language):

@@ -34,3 +34,13 @@ Design and implement a Streamlit application that allows users to input placemen
 ⦁	OOP – Manage Database logic
 
 ⦁	MySQL – Relational database for structure data Storage
+
+## Workflow:
+
+![image alt](https://github.com/nithis127/Placement_Eligibility_Streamlit_Application/blob/c1f7059365d302e5f1fda7d20c8ae03b10411389/workflow.png)
+
+## Streamlit Dashboard Screenshots:
+
+![image alt](https://github.com/nithis127/Placement_Eligibility_Streamlit_Application/blob/c1f7059365d302e5f1fda7d20c8ae03b10411389/streamlit_screenshot1.png)
+
+![image alt](https://github.com/nithis127/Placement_Eligibility_Streamlit_Application/blob/c1f7059365d302e5f1fda7d20c8ae03b10411389/streamlit_screenshot2.png)

@@ -1,10 +1,10 @@
-# Placement_Eligibility_Streamlit_Application
+# 🎓💼Placement_Eligibility_Streamlit_Application
 
-## Problem statement:
+## ❓Problem statement:
 
 Design and implement a Streamlit application that allows users to input placement eligibility criteria. Based on these criteria, the application should query a student information dataset and display the details of eligible candidates.
  
-## Project Objective:
+## 🎯Project Objective:
 
 ⦁	Build data-driven application using Streamlit library in Python.
 
@@ -18,28 +18,28 @@ Design and implement a Streamlit application that allows users to input placemen
 
 ⦁	Domain: ED Tech
 
-## Technologies Used:
-### Python Libraries:
+## 🛠️Technologies Used:
+### 🐍Python Libraries:
 
-⦁	pymysql – Connect Python to MySQL
+⦁	🔗pymysql – Connect Python to MySQL
 
-⦁	Faker – Generate synthetic data
+⦁	🎭Faker – Generate synthetic data
 
-⦁	Pandas – SQL result handling
+⦁	📊Pandas – SQL result handling
 
-⦁	Streamlit – Create interactive dashboard
+⦁	🖥️Streamlit – Create interactive dashboard
 
-### Concepts:
+### 🧠Concepts:
 
-⦁	OOP – Manage Database logic
+⦁	🏗️OOP – Manage Database logic
 
-⦁	MySQL – Relational database for structure data Storage
+⦁	🗄️MySQL – Relational database for structure data Storage
 
-## Workflow:
+## 🔄Workflow:
 
 ![image alt](https://github.com/nithis127/Placement_Eligibility_Streamlit_Application/blob/c1f7059365d302e5f1fda7d20c8ae03b10411389/workflow.png)
 
-## Streamlit Dashboard Screenshots:
+## 📸Streamlit Dashboard Screenshots:
 
 ![image alt](https://github.com/nithis127/Placement_Eligibility_Streamlit_Application/blob/c1f7059365d302e5f1fda7d20c8ae03b10411389/streamlit_screenshot1.png)
 

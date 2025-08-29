@@ -6,17 +6,17 @@ Design and implement a Streamlit application that allows users to input placemen
  
 ## 🎯Project Objective:
 
-⦁	Build data-driven application using Streamlit library in Python.
+⦁	✅Build data-driven application using Streamlit library in Python.
 
-⦁	Store data in MySQL using OOP structure.
+⦁	✅Store data in MySQL using OOP structure.
 
-⦁	Generate synthetic datasets using Faker library in Python.
+⦁	✅Generate synthetic datasets using Faker library in Python.
 
-⦁	Build a Streamlit app that provides placement eligibility analysis with dynamic filtering.
+⦁	✅Build a Streamlit app that provides placement eligibility analysis with dynamic filtering.
 
-⦁	Optimizing SQL queries for effective insights within a Streamlit application.
+⦁	✅Optimizing SQL queries for effective insights within a Streamlit application.
 
-⦁	Domain: ED Tech
+⦁	✅Domain: ED Tech
 
 ## 🛠️Technologies Used:
 ### 🐍Python Libraries:
@@ -29,11 +29,13 @@ Design and implement a Streamlit application that allows users to input placemen
 
 ⦁	🖥️Streamlit – Create interactive dashboard
 
-### 🧠Concepts:
+## 🧠Key Concepts Applied:
 
-⦁	🏗️OOP – Manage Database logic
+⦁	🏗️OOP (Object-Oriented Programming) – Database logic and modular code
 
-⦁	🗄️MySQL – Relational database for structure data Storage
+⦁	🗄️MySQL – Relational database for structured student data storage
+
+⦁	📈 SQL Queries – Insights and analysis
 
 ## 🔄Workflow:
 

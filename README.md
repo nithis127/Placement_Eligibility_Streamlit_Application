@@ -46,3 +46,7 @@ Design and implement a Streamlit application that allows users to input placemen
 ![image alt](https://github.com/nithis127/Placement_Eligibility_Streamlit_Application/blob/c1f7059365d302e5f1fda7d20c8ae03b10411389/streamlit_screenshot1.png)
 
 ![image alt](https://github.com/nithis127/Placement_Eligibility_Streamlit_Application/blob/c1f7059365d302e5f1fda7d20c8ae03b10411389/streamlit_screenshot2.png)
+
+---
+
+⭐ If you found this project useful, feel free to star the repository!
